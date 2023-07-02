@@ -1,8 +1,7 @@
 ##Olá, eu sou Luan Amaral !
 
-- estou iniciando no front-end 
-- atualmente estudo na Fatec
-- Estou no 6º de Analise e desenvolvimento de sistemas
+- front-end 
+- Recém formado em  Analise e desenvolvimento de sistemas
 - Estou estudando Typescript e React 
 
 
