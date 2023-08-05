@@ -1,8 +1,25 @@
 ##Olá, eu sou Luan Amaral !
 
-- front-end 
-- Recém formado em  Analise e desenvolvimento de sistemas
-- Estou estudando Typescript e React 
+Dev Front-end | HTML | CSS | Javascript | React
+
+Sou desenvolvedor front-end altamente motivado, recentemente formado em Análise e Desenvolvimento de Sistemas. 
+
+Tenho experiência sólida em HTML, CSS e JavaScript, e estou familiarizado com os conceitos e boas práticas mais recentes de desenvolvimento front-end. Além disso, sou proficiente no framework React, que utilizo para criar aplicações web dinâmicas e interativas.
+
+E também tenho proficiente no uso de Python para análise de dados, aplicando habilidades para extrair insights valiosos e tomar decisões embasadas
+
+Sou apaixonado por resolver problemas e adoro criar experiências visuais cativantes que atendam às necessidades dos usuários.
+
+Ao longo da minha jornada acadêmica e profissional, desenvolvi habilidades sólidas de comunicação, trabalho em equipe e resolução de problemas, o que me permite colaborar efetivamente com outros desenvolvedores e stakeholders.
+
+Estou em constante busca por aprendizado e sempre aberto a novas tecnologias e tendências no mercado de desenvolvimento web. 
+
+Se você está procurando um desenvolvedor front-end comprometido e apaixonado por criar interfaces de usuário impressionantes, estou animado para discutir como posso contribuir para sua equipe.
+
+Entre em contato comigo para discutir oportunidades de trabalho, projetos ou apenas para uma conversa sobre desenvolvimento front-end! Vamos construir algo incrível juntos.
+
+#dev #programação #front-end #HTML #CSS #JavaScript #React #
+
 
 
 
