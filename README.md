@@ -1,6 +1,6 @@
 ##Olá, eu sou Luan Amaral !
 
-Dev Front-end | HTML | CSS | Javascript | React | 
+Dev Front-end | HTML | CSS | Javascript | React | Python |
 
 Sou desenvolvedor front-end altamente motivado, recentemente formado em Análise e Desenvolvimento de Sistemas. 
 e estudante de SAP B1
