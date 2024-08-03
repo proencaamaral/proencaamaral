@@ -3,7 +3,6 @@
 Dev Front-end | HTML | CSS | Javascript | React | Python |
 
 Sou desenvolvedor front-end altamente motivado, recentemente formado em Análise e Desenvolvimento de Sistemas. 
-e estudante de SAP B1
 Tenho experiência sólida em HTML, CSS e JavaScript, e estou familiarizado com os conceitos e boas práticas mais recentes de desenvolvimento front-end. Além disso, sou proficiente no framework React, que utilizo para criar aplicações web dinâmicas e interativas.
 
 E também tenho proficiente no uso de Python para análise de dados, aplicando habilidades para extrair insights valiosos e tomar decisões embasadas
